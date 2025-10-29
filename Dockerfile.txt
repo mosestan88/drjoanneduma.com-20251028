@@ -1,0 +1,11 @@
+# Use an official PHP+Apache image
+FROM php:8.2-apache
+
+# Copy website files into Apache web root
+COPY . /var/www/html/
+
+# Optional: enable Apache rewrite module if you use .htaccess
+RUN a2enmod rewrite
+
+# Expose HTTP port
+EXPOSE 80

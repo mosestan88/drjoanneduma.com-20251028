@@ -1,0 +1,9 @@
+		 <a href="index.php"><img src="images/home_button.png" border="0" /></a><br>
+         <a href="area.php"><img src="images/area_button.png" border="0" /></a><br>
+         <a href="theoretical.php"><img src="images/theoretical_button.png" border="0" /></a><br>
+         <a href="personal.php"><img src="images/personal_button.png" border="0" /></a><br>
+         <a href="credentials.php"><img src="images/credentials_button.png" border="0" /></a><br>
+         <a href="professional.php"><img src="images/professional_button.png" border="0" /></a><br>
+         <a href="ethical.php"><img src="images/ethical_button.png" border="0" /></a><br>
+         <a href="fees.php"><img src="images/fees_button.png" border="0" /></a><br>
+         <a href="contact.php"><img src="images/contact_button.png" border="0" /></a>
